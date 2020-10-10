@@ -13,6 +13,7 @@ Email: [lorencerri@gmail.com](mailto:lorencerri@gmail.com)
 - [quick.db](https://npmjs.org/quick.db)
     - *A small local database wrapper that works right out of the box, intended for small projects and testing.*
     - 1.2m+ downloads
+    - Easy to use
 - [Server Captcha Bot](https://top.gg/bot/captcha)
     - *A Discord bot that deters automated user accounts through the use of a Captcha-on-join system.*
     - Serving over 6 million users in 40k+ Discord servers
